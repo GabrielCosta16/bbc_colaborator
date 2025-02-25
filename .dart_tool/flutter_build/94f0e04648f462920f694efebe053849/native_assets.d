@@ -1,0 +1,1 @@
+ /home/demander/Projeto\ pessoal/novo_bbc_barbearia/bbc_colaborator/.dart_tool/flutter_build/94f0e04648f462920f694efebe053849/native_assets.yaml: 
